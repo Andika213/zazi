@@ -23,7 +23,7 @@ $ pip install bs4
 
 $ pip install futures
 
-$ git clone  https://github.com/Andika213/zabuza
+$ git clone  https://github.com/Andika213/zazi
 
 # Run Script 
 
